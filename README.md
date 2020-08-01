@@ -7,5 +7,5 @@ For test purposes I leave some demo code for you, in the demo_code/demo-html-for
 You have also option to use sidebar widgets. 
 
 The Theme has search and pagination also integrated.
-On the homepage u have the option to customise the Showcase section (picture, header, paragraph and button). 
+On the front-page u have the option to customise the Showcase section (picture, header, paragraph and button). 
 Have Fun with the Theme! 
